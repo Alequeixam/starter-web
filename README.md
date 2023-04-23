@@ -16,6 +16,8 @@ This is a simple project.
 
 ## How to contribute
 
+Please fork this repository and then issue Pull Requests for review.
+
 ### COPYRIGHT
 
 2023 Git.Couse
